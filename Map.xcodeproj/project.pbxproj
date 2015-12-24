@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6804A67A1C2BF87000115602 /* thumb_IMG_2623_1024.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6804A6761C2BF87000115602 /* thumb_IMG_2623_1024.jpg */; };
+		6804A67B1C2BF87000115602 /* thumb_IMG_2624_1024.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6804A6771C2BF87000115602 /* thumb_IMG_2624_1024.jpg */; };
+		6804A67C1C2BF87000115602 /* thumb_IMG_2626_1024.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6804A6781C2BF87000115602 /* thumb_IMG_2626_1024.jpg */; };
+		6804A67D1C2BF87000115602 /* thumb_IMG_2627_1024.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6804A6791C2BF87000115602 /* thumb_IMG_2627_1024.jpg */; };
 		E4697C0E1B09C96900465A90 /* BaiduMapAPI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4697C0D1B09C96900465A90 /* BaiduMapAPI.framework */; };
 		E4697C101B09CD3700465A90 /* mapapi.bundle in Resources */ = {isa = PBXBuildFile; fileRef = E4697C0F1B09CD3700465A90 /* mapapi.bundle */; };
 		E4B336D41B09B4D800E2565C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E4B336D31B09B4D800E2565C /* main.m */; };
@@ -35,6 +39,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6804A6761C2BF87000115602 /* thumb_IMG_2623_1024.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thumb_IMG_2623_1024.jpg; sourceTree = "<group>"; };
+		6804A6771C2BF87000115602 /* thumb_IMG_2624_1024.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thumb_IMG_2624_1024.jpg; sourceTree = "<group>"; };
+		6804A6781C2BF87000115602 /* thumb_IMG_2626_1024.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thumb_IMG_2626_1024.jpg; sourceTree = "<group>"; };
+		6804A6791C2BF87000115602 /* thumb_IMG_2627_1024.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thumb_IMG_2627_1024.jpg; sourceTree = "<group>"; };
 		E4697C0D1B09C96900465A90 /* BaiduMapAPI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = BaiduMapAPI.framework; sourceTree = "<group>"; };
 		E4697C0F1B09CD3700465A90 /* mapapi.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = mapapi.bundle; sourceTree = "<group>"; };
 		E4B336CE1B09B4D800E2565C /* Map.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Map.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -124,6 +132,10 @@
 				E4B336D61B09B4D800E2565C /* AppDelegate.mm */,
 				E4B336D81B09B4D800E2565C /* ViewController.h */,
 				E4B336D91B09B4D800E2565C /* ViewController.mm */,
+				6804A6761C2BF87000115602 /* thumb_IMG_2623_1024.jpg */,
+				6804A6771C2BF87000115602 /* thumb_IMG_2624_1024.jpg */,
+				6804A6781C2BF87000115602 /* thumb_IMG_2626_1024.jpg */,
+				6804A6791C2BF87000115602 /* thumb_IMG_2627_1024.jpg */,
 				E4B336DB1B09B4D800E2565C /* Main.storyboard */,
 				E4B336DE1B09B4D800E2565C /* Images.xcassets */,
 				E4B336E01B09B4D800E2565C /* LaunchScreen.xib */,
@@ -239,10 +251,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6804A67D1C2BF87000115602 /* thumb_IMG_2627_1024.jpg in Resources */,
 				E4B336DD1B09B4D800E2565C /* Main.storyboard in Resources */,
 				E4697C101B09CD3700465A90 /* mapapi.bundle in Resources */,
+				6804A67C1C2BF87000115602 /* thumb_IMG_2626_1024.jpg in Resources */,
+				6804A67A1C2BF87000115602 /* thumb_IMG_2623_1024.jpg in Resources */,
 				E4B336E21B09B4D800E2565C /* LaunchScreen.xib in Resources */,
 				E4B336DF1B09B4D800E2565C /* Images.xcassets in Resources */,
+				6804A67B1C2BF87000115602 /* thumb_IMG_2624_1024.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
